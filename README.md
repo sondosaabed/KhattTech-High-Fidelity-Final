@@ -1,1 +1,1 @@
-# -KhattTech-High-Fidelity-Final
+# KhattTech High-Fidelity Final
