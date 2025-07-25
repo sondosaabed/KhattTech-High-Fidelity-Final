@@ -12,3 +12,9 @@ In this section I Improve accessibility of my design.
 - Implementing these improvements on a new frame and placed them side by side to demonstrate the improvement.
 - annotated changes I’ve made
 - [Figma Project Link](https://www.figma.com/design/YUVbeKHyrSP2N8r1rwQrCx/High-fedality-accessability-improvements?node-id=1-329&t=Am5LHHtlfg97GtLj-1)
+
+## 4. Preparing for Handoff
+In this section I prepare the assets for Handoff:
+- I Prepared the assets for export
+- I Export the Figma designs to Zeplin
+- [Zeplin Project Link](https://scene.zeplin.io/project/6883d59ef55858e98159feda)
