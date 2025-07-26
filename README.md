@@ -35,6 +35,16 @@ In this section I Improve accessibility of my design.
 
   
 ### 3.2 Iterate design based on Data & KPI provided
+Since we have 100% completion of task rate the KPI I chose to work with is 
+-	**Decrease Time on task**: The flow I chose to iterate on from my product should be:
+-	**Task 1, that is choosing the image**.  This decision was made because it was the slowest of average completion time 33.8 Seconds and had a high variance starting from (7s – 74s).
+-	**Hypotheses**: If the image selection screen is simplified by providing clearer visual options and clearer instructions, users will take less time to complete Task 1, reducing the average completion time from 33.8s to under 20s.
+-	**Based on data point**: A 67-second time difference between the fastest and slowest participant on Task 1 shows inconsistent understanding of how to proceed.
+-	**Alternative solution**
+  - Added a “Change Selection” button on the preview image page to allow users to easily go back and choose a different image without confusion.
+  - Changed the CTA text from “Go Back” to “Change Selection” for clearer, more actionable guidance.
+
+- [Annotated Figma project](https://www.figma.com/design/002nSKJvx29pXEd8pWNu0M/Usability-Test?node-id=48-100&t=vJNp4LKQ2sYquuqq-1)
 
 ## 4. Preparing for Handoff
 In this section I prepare the assets for Handoff:
