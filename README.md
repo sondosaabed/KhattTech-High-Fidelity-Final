@@ -14,6 +14,8 @@ In this section I Improve accessibility of my design.
 - [Figma Project Link](https://www.figma.com/design/YUVbeKHyrSP2N8r1rwQrCx/High-fedality-accessability-improvements?node-id=1-329&t=Am5LHHtlfg97GtLj-1)
 
 ## 3. Design Performance
+Solution for this part could be find under the report pdf file named: Design-Performance-Report.pdf
+
 ### 3.1 Testing your design
 - Tasks to be tested:
   - Task 1: Chose your image by either ways and successfully reach the recognition screen.
