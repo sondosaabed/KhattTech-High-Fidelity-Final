@@ -26,6 +26,13 @@ In this section I Improve accessibility of my design.
   <img width="1837" height="1021" alt="Tasks-Number-of-participants" src="https://github.com/user-attachments/assets/001373e7-4e80-4578-b80e-e51185c880c0" />
 
 - List of test insights
+  -	83% Completion Rate: Most participants completed all tasks. One outlier misunderstood the test and failed all tasks.
+  -	Task 1 Took the Longest: “Choose Image” had the highest average time (33.8s) and largest time variation (7s–74s), suggesting confusion or hesitation.
+  -	Smoother Flow After Task 1: Once users chose an image, they completed the rest of the tasks faster and with fewer issues.
+  -	Back to Home Was Slower: Task 4 took longer than Tasks 2 and 3, possibly due to unclear navigation.
+  -	Average Session = 2:06: Overall session duration was short and efficient for most users.
+  -	One participant recommended improving the app’s logo for a more professional look.
+
   
 ### 3.2 Iterate design based on Data & KPI provided
 
